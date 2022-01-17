@@ -1,5 +1,6 @@
 # Minitasks
 ### Youtube Demo: https://youtu.be/yPC58yBRJiU
+### Google Play: https://play.google.com/store/apps/details?id=com.jeffwang4321.MiniTasks
 [![IMAGE ALT TEXT HERE](assets/minitasks.png)](https://www.youtube.com/watch?v=yPC58yBRJiU)
 - Developed a minimalistic and easy to use To Do List using React Native and Expo
 
