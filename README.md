@@ -1,6 +1,6 @@
 # Minitasks
-### Youtube Demo: https://youtu.be/f04S7N4gTlE
-[![IMAGE ALT TEXT HERE](assets/minitasks.png)](https://www.youtube.com/watch?v=f04S7N4gTlE)
+### Youtube Demo: https://youtu.be/yPC58yBRJiU
+[![IMAGE ALT TEXT HERE](assets/minitasks.png)](https://www.youtube.com/watch?v=yPC58yBRJiU)
 - Developed a minimalistic and easy to use To Do List using React Native and Expo
 
 - Implemented persistent storage to store tasks JSON locally within the device
