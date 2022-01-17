@@ -1,14 +1,18 @@
 # Minitasks
 ### Youtube Demo: https://youtu.be/f04S7N4gTlE
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yPC58yBRJiU/0.jpg)](https://www.youtube.com/watch?v=yPC58yBRJiU)
+[![IMAGE ALT TEXT HERE](assets/minitasks.png)](https://www.youtube.com/watch?v=f04S7N4gTlE)
+- Developed a minimalistic and easy to use To Do List using React Native and Expo
 
-- Developed a minimalistic and easy to use To Do List app using React Native and deployed using Expo
-
-- Utilized persistent storage to store tasks JSON locally within the device
+- Implemented persistent storage to store tasks JSON locally within the device
 
 - Focused on state manipulation, asynchronous functions, promises and hooks
 
-- Application can create, modify & delete custom tasks as well as sort tasks by due dates and task color
+## Features:
+- Create, modify & delete custom tasks
+
+- Set and sort tasks by due dates and task color
+
+- Delete all tasks and/or delete selected tasks
 
 ## How to Test
 
