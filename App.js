@@ -1,3 +1,4 @@
+// June 6 - Git CLone Test
 import React, {useState, useEffect} from 'react'; 
 import { StyleSheet, Text, View, TouchableOpacity, Keyboard, Alert } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
